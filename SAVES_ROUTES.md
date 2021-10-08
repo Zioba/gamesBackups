@@ -6,4 +6,4 @@ Warcraft 3 saves route<br/>
 C:\Users\zioba\Saved Games\Warcraft III\
 
 World of warcraft saves route<br/>
-c:\Games\World of Warcraft\_retail_\WTF\
+C:\Games\World of Warcraft\_retail_\WTF\
