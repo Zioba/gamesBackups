@@ -1,0 +1,1436 @@
+
+DBMPvP_AllSavedVars = {
+	["Зёбинпаладин-Ревущий фьорд"] = {
+		["z529"] = {
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["ShowAbBasesToWin"] = false,
+				["HealthFrame"] = false,
+				["TimerWin"] = true,
+				["TimerCap"] = true,
+				["ShowAbEstimatedPoints"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["HealthFrame"] = false,
+				["ShowAbBasesToWin"] = false,
+				["TimerCapTColor"] = 0,
+				["TimerCap"] = true,
+				["TimerWin"] = true,
+				["ShowAbEstimatedPoints"] = true,
+			}, -- [2]
+		},
+		["Battlegrounds"] = {
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["ColorByClass"] = true,
+				["HideBossEmoteFrame"] = false,
+				["AutoSpirit"] = false,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["ColorByClass"] = true,
+				["HideBossEmoteFrame"] = false,
+				["AutoSpirit"] = false,
+			}, -- [2]
+		},
+		["z727"] = {
+			{
+				["HealthFrame"] = false,
+				["Enabled"] = true,
+				["TimerCart"] = true,
+				["TimerCartTColor"] = 0,
+			}, -- [1]
+			{
+				["TimerCartTColor"] = 0,
+				["HealthFrame"] = false,
+				["TimerCart"] = true,
+				["Enabled"] = true,
+			}, -- [2]
+		},
+		["z1105"] = {
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["HealthFrame"] = false,
+				["TimerWin"] = true,
+				["TimerCap"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["TimerCap"] = true,
+				["TimerWin"] = true,
+				["HealthFrame"] = false,
+			}, -- [2]
+		},
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["TimerTowerTColor"] = 0,
+				["TimerGYTColor"] = 0,
+				["HealthFrame"] = false,
+				["AutoTurnIn"] = true,
+				["TimerTower"] = true,
+				["TimerGY"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerGYTColor"] = 0,
+				["TimerTowerTColor"] = 0,
+				["HealthFrame"] = false,
+				["AutoTurnIn"] = true,
+				["TimerTower"] = true,
+				["TimerGY"] = true,
+			}, -- [2]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+				["TimerFlag"] = true,
+				["Timer46392next"] = true,
+				["ShowFlagCarrier"] = true,
+				["HealthFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["ShowFlagCarrierErrorNote"] = false,
+				["Timer46392nextTColor"] = 0,
+			}, -- [1]
+			{
+				["TimerFlag"] = true,
+				["Enabled"] = true,
+				["Timer46392next"] = true,
+				["ShowFlagCarrierErrorNote"] = false,
+				["HealthFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["ShowFlagCarrier"] = true,
+				["Timer46392nextTColor"] = 0,
+			}, -- [2]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["ShowGatesHealth"] = true,
+				["WarnSiegeEngineSoon"] = true,
+				["TimerPOI"] = true,
+				["TimerSiegeEngineTColor"] = 0,
+				["TimerPOITColor"] = 0,
+				["TimerSiegeEngine"] = true,
+				["WarnSiegeEngine"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["ShowGatesHealth"] = true,
+				["WarnSiegeEngineSoon"] = true,
+				["TimerPOI"] = true,
+				["WarnSiegeEngine"] = true,
+				["TimerPOITColor"] = 0,
+				["TimerSiegeEngine"] = true,
+				["TimerSiegeEngineTColor"] = 0,
+			}, -- [2]
+		},
+		["z566"] = {
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerFlag"] = true,
+				["HealthFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["TimerWin"] = true,
+				["ShowPointFrame"] = true,
+			}, -- [1]
+			{
+				["TimerFlag"] = true,
+				["TimerWinTColor"] = 0,
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["TimerWin"] = true,
+				["ShowPointFrame"] = true,
+			}, -- [2]
+		},
+		["talent1"] = "Свет",
+		["z998"] = {
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["HealthFrame"] = false,
+				["ShowKotmoguEstimatedPoints"] = true,
+				["TimerWin"] = true,
+				["ShowKotmoguOrbsToWin"] = false,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["HealthFrame"] = false,
+				["ShowKotmoguEstimatedPoints"] = true,
+				["TimerWin"] = true,
+				["ShowKotmoguOrbsToWin"] = false,
+			}, -- [2]
+		},
+		["Arenas"] = {
+			{
+				["Enabled"] = true,
+				["Countdown91344"] = true,
+				["timer_combatTColor"] = 0,
+				["HealthFrame"] = false,
+				["timer_combat"] = true,
+				["TimerShadow"] = true,
+				["Timer110310cast"] = true,
+				["Timer110310castTColor"] = 0,
+				["TimerShadowTColor"] = 0,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["Countdown91344"] = true,
+				["timer_combatTColor"] = 0,
+				["HealthFrame"] = false,
+				["timer_combat"] = true,
+				["TimerShadow"] = true,
+				["Timer110310cast"] = true,
+				["TimerShadowTColor"] = 0,
+				["Timer110310castTColor"] = 0,
+			}, -- [2]
+		},
+		["z489"] = {
+			{
+				["Enabled"] = true,
+				["TimerFlag"] = true,
+				["Timer46392next"] = true,
+				["ShowFlagCarrier"] = true,
+				["HealthFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["ShowFlagCarrierErrorNote"] = false,
+				["Timer46392nextTColor"] = 0,
+			}, -- [1]
+			{
+				["TimerFlag"] = true,
+				["Enabled"] = true,
+				["Timer46392next"] = true,
+				["ShowFlagCarrierErrorNote"] = false,
+				["HealthFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["ShowFlagCarrier"] = true,
+				["Timer46392nextTColor"] = 0,
+			}, -- [2]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["ShowGilneasEstimatedPoints"] = true,
+				["TimerCapTColor"] = 0,
+				["HealthFrame"] = false,
+				["TimerWin"] = true,
+				["TimerCap"] = true,
+				["ShowGilneasBasesToWin"] = false,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["ShowGilneasEstimatedPoints"] = true,
+				["HealthFrame"] = false,
+				["TimerCapTColor"] = 0,
+				["TimerCap"] = true,
+				["TimerWin"] = true,
+				["ShowGilneasBasesToWin"] = false,
+			}, -- [2]
+		},
+	},
+	["Василец-Ревущий фьорд"] = {
+		["z2107"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z2106"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z727"] = {
+			{
+				["TimerRespawnCVoice"] = 0,
+				["TimerCartCVoice"] = 0,
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [1]
+		},
+		["z998"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["AutoTurnIn"] = true,
+			}, -- [1]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z566"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["talent1"] = "Кровь",
+		["PvPGeneral"] = {
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["TimerRemainingTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["AutoSpirit"] = false,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerFlag"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["Timer110310cast"] = true,
+				["TimerWin"] = true,
+				["TimerWinCVoice"] = 0,
+				["Enabled"] = true,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [1]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z1803"] = {
+			{
+				["TimerSpawn"] = true,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawnCVoice"] = 0,
+			}, -- [1]
+		},
+		["z2245"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+	},
+	["Зёба-Ревущий фьорд"] = {
+		["z2107"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["talent2"] = "Неистовство",
+		["z566"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z2106"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z727"] = {
+			{
+				["TimerCartCVoice"] = 0,
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerRespawnCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [1]
+			{
+				["TimerCartTColor"] = 0,
+				["TimerCartCVoice"] = 0,
+				["TimerCart"] = true,
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["TimerCartCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerCartTColor"] = 0,
+				["TimerRespawnCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [3]
+		},
+		["z1803"] = {
+			{
+				["TimerSpawn"] = true,
+				["TimerSpawnCVoice"] = 0,
+				["TimerSpawnTColor"] = 0,
+				["Enabled"] = true,
+			}, -- [1]
+			[3] = {
+				["TimerSpawnCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawn"] = true,
+			},
+		},
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerCapCVoice"] = 0,
+				["TimerCapTColor"] = 0,
+				["AutoTurnIn"] = true,
+				["TimerCap"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [3]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["talent3"] = "Защита",
+		["talent1"] = "Оружие",
+		["PvPGeneral"] = {
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["Timer34709next"] = true,
+				["ShowRelativeGameTime"] = true,
+				["AutoSpirit"] = false,
+				["Timer110310cast"] = true,
+				["TimerRemainingTColor"] = 0,
+				["TimerStartTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["TimerWin"] = true,
+				["Enabled"] = true,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["TimerStart"] = true,
+			}, -- [1]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["ShowBasesToWin"] = false,
+				["Timer110310castTColor"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["TimerCap"] = true,
+				["TimerFlagTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["ShowEstimatedPoints"] = true,
+				["TimerWin"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["Timer34709next"] = true,
+			}, -- [2]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["Timer34709next"] = true,
+				["ShowRelativeGameTime"] = true,
+				["Timer110310castTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["TimerStartTColor"] = 0,
+				["TimerWin"] = true,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["Enabled"] = true,
+				["HideBossEmoteFrame"] = false,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["TimerStart"] = true,
+			}, -- [3]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z998"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+		["z2245"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+		},
+	},
+	["Зёбмва-Ревущий фьорд"] = {
+		["talent4"] = "Исцеление",
+		["z2107"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z727"] = {
+			{
+				["TimerRespawnCVoice"] = 0,
+				["TimerCartCVoice"] = 0,
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["TimerRespawnCVoice"] = 0,
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerCartCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [3]
+			{
+				["TimerRespawnCVoice"] = 0,
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerCartCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [4]
+		},
+		["z2106"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z998"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["talent3"] = "Страж",
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [4]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z566"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["talent1"] = "Баланс",
+		["PvPGeneral"] = {
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerStart"] = true,
+				["AutoSpirit"] = false,
+				["Timer110310cast"] = true,
+				["ShowRelativeGameTime"] = true,
+				["TimerRemainingTColor"] = 0,
+				["TimerWin"] = true,
+				["ShowBasesToWin"] = false,
+				["Timer46392next"] = true,
+				["HideBossEmoteFrame"] = false,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["Timer46392nextCVoice"] = 0,
+				["TimerStartTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["ShowEstimatedPoints"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerStart"] = true,
+				["ShowRelativeGameTime"] = true,
+				["AutoSpirit"] = false,
+				["Timer110310cast"] = true,
+				["TimerRemainingTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["Enabled"] = true,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["TimerWin"] = true,
+				["TimerStartTColor"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [3]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerStart"] = true,
+				["ShowRelativeGameTime"] = true,
+				["AutoSpirit"] = false,
+				["Timer110310cast"] = true,
+				["TimerRemainingTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["Enabled"] = true,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerFlag"] = true,
+				["TimerStartTColor"] = 0,
+				["TimerWin"] = true,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [4]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z1803"] = {
+			{
+				["TimerSpawn"] = true,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawnCVoice"] = 0,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["TimerSpawnCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawn"] = true,
+			}, -- [3]
+			{
+				["TimerSpawnCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawn"] = true,
+			}, -- [4]
+		},
+		["z2245"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+	},
+	["Зёбинмонк-Ревущий фьорд"] = {
+		["z2107"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z2106"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z727"] = {
+			{
+				["TimerRespawnCVoice"] = 0,
+				["TimerCartCVoice"] = 0,
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [1]
+		},
+		["z998"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [1]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z566"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["talent1"] = "Хмелевар",
+		["PvPGeneral"] = {
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["TimerRemainingTColor"] = 0,
+				["AutoSpirit"] = false,
+				["ShowBasesToWin"] = false,
+				["Timer110310cast"] = true,
+				["TimerWinCVoice"] = 0,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerFlag"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerWin"] = true,
+				["Timer46392next"] = true,
+				["Enabled"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["TimerRemainingCVoice"] = 0,
+				["ShowEstimatedPoints"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [1]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+		["z1803"] = {
+			{
+				["TimerSpawn"] = true,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawnCVoice"] = 0,
+			}, -- [1]
+		},
+		["z2245"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+		},
+	},
+	["Чепотестить-Гордунни"] = {
+		["talent4"] = "Исцеление",
+		["z2107"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["z2106"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["z727"] = {
+			[3] = {
+				["Enabled"] = true,
+				["TimerCartCVoice"] = 0,
+				["TimerCart"] = true,
+				["TimerCartTColor"] = 0,
+			},
+			[4] = {
+				["TimerCartCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerCart"] = true,
+				["TimerCartTColor"] = 0,
+			},
+		},
+		["z30"] = {
+			[3] = {
+				["Enabled"] = true,
+				["AutoTurnIn"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+				["AutoTurnIn"] = true,
+			},
+		},
+		["z726"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["z628"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["z566"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["talent3"] = "Страж",
+		["PvPGeneral"] = {
+			[3] = {
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["ShowBasesToWin"] = false,
+				["Timer110310castTColor"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerWin"] = true,
+				["ShowEstimatedPoints"] = true,
+				["HideBossEmoteFrame"] = false,
+				["TimerFlag"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["Timer34709next"] = true,
+			},
+			[4] = {
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["TimerRemainingTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer110310castTColor"] = 0,
+				["TimerFlagTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["Timer46392nextTColor"] = 0,
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["TimerWin"] = true,
+				["TimerWinCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerFlag"] = true,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["Timer34709next"] = true,
+			},
+		},
+		["z761"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["z998"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+		["z2245"] = {
+			[3] = {
+				["Enabled"] = true,
+			},
+			[4] = {
+				["Enabled"] = true,
+			},
+		},
+	},
+	["Царева-Ревущий фьорд"] = {
+		["talent4"] = "Исцеление",
+		["talent2"] = "Сила зверя",
+		["z2107"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["talent3"] = "Страж",
+		["z2106"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z998"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["PvPGeneral"] = {
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerStart"] = true,
+				["TimerStartTColor"] = 0,
+				["AutoSpirit"] = false,
+				["Timer110310cast"] = true,
+				["TimerRemainingTColor"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["TimerWinCVoice"] = 0,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerFlag"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerWin"] = true,
+				["Enabled"] = true,
+				["HideBossEmoteFrame"] = false,
+				["Timer46392nextCVoice"] = 0,
+				["Timer34709nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [1]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["AutoSpirit"] = false,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["TimerFlag"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["Timer110310cast"] = true,
+				["TimerWinCVoice"] = 0,
+				["Enabled"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["TimerWin"] = true,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [2]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerStart"] = true,
+				["TimerStartTColor"] = 0,
+				["AutoSpirit"] = false,
+				["Timer110310cast"] = true,
+				["TimerRemainingTColor"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["TimerWinCVoice"] = 0,
+				["TimerFlagTColor"] = 0,
+				["TimerCap"] = true,
+				["Timer46392nextTColor"] = 0,
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerWin"] = true,
+				["HideBossEmoteFrame"] = false,
+				["TimerFlag"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer34709next"] = true,
+			}, -- [3]
+			{
+				["TimerRemaining"] = true,
+				["TimerFlagCVoice"] = 0,
+				["TimerStart"] = true,
+				["TimerStartTColor"] = 0,
+				["Timer110310castTColor"] = 0,
+				["Timer110310castCVoice"] = 0,
+				["TimerRemainingTColor"] = 0,
+				["ShowRelativeGameTime"] = true,
+				["TimerCap"] = true,
+				["TimerFlagTColor"] = 0,
+				["HideBossEmoteFrame"] = false,
+				["Timer46392nextTColor"] = 0,
+				["Enabled"] = true,
+				["TimerWinTColor"] = 0,
+				["TimerCapCVoice"] = 0,
+				["TimerWinCVoice"] = 0,
+				["TimerFlag"] = true,
+				["TimerWin"] = true,
+				["Timer34709nextCVoice"] = 0,
+				["Timer46392nextCVoice"] = 0,
+				["TimerStartCVoice"] = 0,
+				["TimerRemainingCVoice"] = 0,
+				["Timer46392next"] = true,
+				["Timer34709nextTColor"] = 0,
+				["TimerCapTColor"] = 0,
+				["Timer110310cast"] = true,
+				["AutoSpirit"] = false,
+				["Timer34709next"] = true,
+			}, -- [4]
+		},
+		["z30"] = {
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerCapCVoice"] = 0,
+				["TimerCapTColor"] = 0,
+				["AutoTurnIn"] = true,
+				["TimerCap"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+				["TimerBossTColor"] = 0,
+				["TimerBoss"] = true,
+				["AutoTurnIn"] = true,
+				["TimerBossCVoice"] = 0,
+			}, -- [4]
+		},
+		["z726"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z628"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z566"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["talent1"] = "Баланс",
+		["z1803"] = {
+			{
+				["TimerSpawn"] = true,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawnCVoice"] = 0,
+			}, -- [1]
+			nil, -- [2]
+			{
+				["TimerSpawn"] = true,
+				["Enabled"] = true,
+				["TimerSpawnTColor"] = 0,
+				["TimerSpawnCVoice"] = 0,
+			}, -- [3]
+			{
+				["TimerSpawn"] = true,
+				["TimerSpawnCVoice"] = 0,
+				["TimerSpawnTColor"] = 0,
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z761"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+		["z727"] = {
+			{
+				["TimerCartTColor"] = 0,
+				["Enabled"] = true,
+				["TimerRespawnCVoice"] = 0,
+				["TimerCartCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+				["TimerCartCVoice"] = 0,
+				["TimerCart"] = true,
+				["TimerCartTColor"] = 0,
+			}, -- [2]
+			{
+				["TimerCartCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerCartTColor"] = 0,
+				["TimerRespawnCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [3]
+			{
+				["TimerCartTColor"] = 0,
+				["TimerCartCVoice"] = 0,
+				["Enabled"] = true,
+				["TimerRespawnCVoice"] = 0,
+				["TimerRespawnTColor"] = 0,
+				["TimerCart"] = true,
+				["TimerRespawn"] = true,
+			}, -- [4]
+		},
+		["z2245"] = {
+			{
+				["Enabled"] = true,
+			}, -- [1]
+			{
+				["Enabled"] = true,
+			}, -- [2]
+			{
+				["Enabled"] = true,
+			}, -- [3]
+			{
+				["Enabled"] = true,
+			}, -- [4]
+		},
+	},
+}

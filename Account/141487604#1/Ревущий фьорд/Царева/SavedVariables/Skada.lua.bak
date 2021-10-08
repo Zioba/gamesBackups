@@ -1,0 +1,777 @@
+
+SkadaPerCharDB = {
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["damage"] = 376,
+			["players"] = {
+				{
+					["last"] = 1628366787,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Мерцающая Пыль в роли Кил'джедена"] = 376,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Острые колючки"] = {
+							["shielding"] = 128,
+							["id"] = 203953,
+							["healing"] = 128,
+							["min"] = 128,
+							["name"] = "Острые колючки",
+							["max"] = 128,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["time"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 376,
+					["damagespells"] = {
+						["Острые колючки"] = {
+							["hitmin"] = 188,
+							["id"] = 203958,
+							["min"] = 188,
+							["hitamount"] = 376,
+							["hitmax"] = 188,
+							["hit"] = 2,
+							["school"] = 8,
+							["max"] = 188,
+							["totalhits"] = 2,
+							["damage"] = 376,
+						},
+					},
+					["healed"] = {
+						["Player-1615-04E0AB42"] = {
+							["role"] = "NONE",
+							["name"] = "Царева",
+							["amount"] = 128,
+							["class"] = "DRUID",
+							["shielding"] = 128,
+						},
+					},
+					["shielding"] = 128,
+					["id"] = "Player-1615-04E0AB42",
+					["first"] = 1628366787,
+					["damagetakenspells"] = {
+						["Армагеддон"] = {
+							["crushing"] = 0,
+							["id"] = 340808,
+							["min"] = 1566,
+							["school"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 256,
+							["name"] = "Армагеддон",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 1608,
+							["damage"] = 3174,
+						},
+					},
+					["ccbreaks"] = 0,
+					["auras"] = {
+					},
+					["name"] = "Царева",
+					["maxhp"] = 51565,
+					["damagetaken"] = 3174,
+					["overhealing"] = 0,
+					["role"] = "NONE",
+					["healing"] = 128,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Хиёши"] = {
+					["players"] = {
+					},
+					["hdone"] = 314,
+					["htakenspell"] = {
+						["Самоисцеление"] = {
+							["min"] = 314,
+							["crits"] = 0,
+							["max"] = 314,
+							["healing"] = 314,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 314,
+					["hdonespell"] = {
+						["Самоисцеление"] = {
+							["min"] = 314,
+							["crits"] = 0,
+							["max"] = 314,
+							["healing"] = 314,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Мерцающая Пыль в роли Кил'джедена"] = {
+					["players"] = {
+						["Царева"] = {
+							["taken"] = 376,
+							["done"] = 3174,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 376,
+					["done"] = 3174,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Гачинадаче"] = {
+					["players"] = {
+					},
+					["hdone"] = 1339,
+					["htakenspell"] = {
+						["Сфера концентрированной анимы"] = {
+							["min"] = 1339,
+							["crits"] = 0,
+							["max"] = 1339,
+							["healing"] = 1339,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 1339,
+					["hdonespell"] = {
+						["Сфера концентрированной анимы"] = {
+							["min"] = 1339,
+							["crits"] = 0,
+							["max"] = 1339,
+							["healing"] = 1339,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Сэрджи"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Сфера концентрированной анимы"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1989,
+							["hits"] = 1,
+						},
+						["Могильное касание"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 525,
+							["hits"] = 1,
+						},
+						["Призрачная сингулярность"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 192,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Сфера концентрированной анимы"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1989,
+							["hits"] = 1,
+						},
+						["Могильное касание"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 525,
+							["hits"] = 1,
+						},
+						["Призрачная сингулярность"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 192,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Копытень"] = {
+					["players"] = {
+					},
+					["hdone"] = 4476,
+					["htakenspell"] = {
+						["Самоисцеление"] = {
+							["min"] = 1671,
+							["crits"] = 0,
+							["max"] = 2805,
+							["healing"] = 4476,
+							["overhealing"] = 2610,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 4476,
+					["hdonespell"] = {
+						["Самоисцеление"] = {
+							["min"] = 1671,
+							["crits"] = 0,
+							["max"] = 2805,
+							["healing"] = 4476,
+							["overhealing"] = 2610,
+							["hits"] = 2,
+						},
+					},
+				},
+				["Журавль"] = {
+					["players"] = {
+					},
+					["hdone"] = 299,
+					["htakenspell"] = {
+						["Самоисцеление"] = {
+							["min"] = 65,
+							["crits"] = 0,
+							["max"] = 234,
+							["healing"] = 299,
+							["overhealing"] = 1347,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 299,
+					["hdonespell"] = {
+						["Самоисцеление"] = {
+							["min"] = 65,
+							["crits"] = 0,
+							["max"] = 234,
+							["healing"] = 299,
+							["overhealing"] = 1347,
+							["hits"] = 2,
+						},
+					},
+				},
+			},
+			["shielding"] = 128,
+			["endtime"] = 1628366794,
+			["healing"] = 128,
+			["starttime"] = 1628366787,
+			["auras"] = {
+			},
+			["overhealing"] = 0,
+			["mobtaken"] = 376,
+			["name"] = "Мерцающая Пыль в роли Кил'джедена (2)",
+			["mobname"] = "Мерцающая Пыль в роли Кил'джедена",
+			["damagetaken"] = 3174,
+			["mobhdone"] = 6428,
+			["last_action"] = 1628366787,
+			["mobdone"] = 3174,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["damage"] = 188,
+			["players"] = {
+				{
+					["last"] = 1628366530,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Мерцающая Пыль в роли Кил'джедена"] = 188,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["time"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 188,
+					["damagespells"] = {
+						["Острые колючки"] = {
+							["hitmin"] = 188,
+							["id"] = 203958,
+							["min"] = 188,
+							["hitamount"] = 188,
+							["hitmax"] = 188,
+							["hit"] = 1,
+							["school"] = 8,
+							["max"] = 188,
+							["totalhits"] = 1,
+							["damage"] = 188,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1615-04E0AB42",
+					["first"] = 1628366530,
+					["damagetakenspells"] = {
+						["Армагеддон"] = {
+							["crushing"] = 0,
+							["id"] = 340808,
+							["min"] = 1658,
+							["school"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 128,
+							["name"] = "Армагеддон",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 1658,
+							["damage"] = 1658,
+						},
+					},
+					["ccbreaks"] = 0,
+					["auras"] = {
+					},
+					["name"] = "Царева",
+					["maxhp"] = 51565,
+					["damagetaken"] = 1658,
+					["overhealing"] = 0,
+					["role"] = "NONE",
+					["healing"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Грак'уке"] = {
+					["players"] = {
+					},
+					["hdone"] = 63,
+					["htakenspell"] = {
+						["Самоисцеление"] = {
+							["min"] = 30,
+							["crits"] = 0,
+							["max"] = 33,
+							["healing"] = 63,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 63,
+					["hdonespell"] = {
+						["Самоисцеление"] = {
+							["min"] = 30,
+							["crits"] = 0,
+							["max"] = 33,
+							["healing"] = 63,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+				},
+				["Мерцающая Пыль в роли Кил'джедена"] = {
+					["players"] = {
+						["Царева"] = {
+							["taken"] = 188,
+							["done"] = 1658,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 188,
+					["done"] = 1658,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["endtime"] = 1628366537,
+			["healing"] = 0,
+			["starttime"] = 1628366530,
+			["auras"] = {
+			},
+			["overhealing"] = 0,
+			["mobtaken"] = 188,
+			["name"] = "Мерцающая Пыль в роли Кил'джедена",
+			["mobname"] = "Мерцающая Пыль в роли Кил'джедена",
+			["damagetaken"] = 1658,
+			["mobhdone"] = 63,
+			["last_action"] = 1628366530,
+			["mobdone"] = 1658,
+		}, -- [2]
+	},
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 14,
+		["interrupts"] = 0,
+		["damage"] = 564,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DRUID",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Острые колючки"] = {
+						["shielding"] = 128,
+						["id"] = 203953,
+						["healing"] = 128,
+						["min"] = 128,
+						["name"] = "Острые колючки",
+						["max"] = 128,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["time"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 564,
+				["damagespells"] = {
+					["Острые колючки"] = {
+						["hitmin"] = 188,
+						["id"] = 203958,
+						["min"] = 188,
+						["hitamount"] = 564,
+						["hitmax"] = 188,
+						["hit"] = 3,
+						["school"] = 8,
+						["max"] = 188,
+						["totalhits"] = 3,
+						["damage"] = 564,
+					},
+				},
+				["healed"] = {
+					["Player-1615-04E0AB42"] = {
+						["role"] = "NONE",
+						["name"] = "Царева",
+						["amount"] = 128,
+						["class"] = "DRUID",
+						["shielding"] = 128,
+					},
+				},
+				["shielding"] = 128,
+				["id"] = "Player-1615-04E0AB42",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Армагеддон"] = {
+						["crushing"] = 0,
+						["id"] = 340808,
+						["min"] = 1566,
+						["school"] = 4,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 384,
+						["name"] = "Армагеддон",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 1658,
+						["damage"] = 4832,
+					},
+				},
+				["auras"] = {
+				},
+				["maxhp"] = 51565,
+				["name"] = "Царева",
+				["deathlog"] = {
+					{
+						["absorb"] = -128,
+						["amount"] = -1658,
+						["hp"] = 49907,
+						["ts"] = 1628366530.116,
+						["spellid"] = 340808,
+						["srcname"] = "Мерцающая Пыль в роли Кил'джедена",
+					}, -- [1]
+					{
+						["absorb"] = -128,
+						["amount"] = -1608,
+						["hp"] = 49957,
+						["ts"] = 1628366787.149,
+						["spellid"] = 340808,
+						["srcname"] = "Мерцающая Пыль в роли Кил'джедена",
+					}, -- [2]
+					{
+						["absorb"] = -128,
+						["amount"] = -1566,
+						["hp"] = 48391,
+						["ts"] = 1628366787.149,
+						["spellid"] = 340808,
+						["srcname"] = "Мерцающая Пыль в роли Кил'джедена",
+					}, -- [3]
+					["pos"] = 4,
+				},
+				["damagetaken"] = 4832,
+				["overhealing"] = 0,
+				["role"] = "NONE",
+				["healing"] = 128,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Хиёши"] = {
+				["players"] = {
+				},
+				["hdone"] = 314,
+				["htakenspell"] = {
+					["Самоисцеление"] = {
+						["min"] = 314,
+						["crits"] = 0,
+						["max"] = 314,
+						["healing"] = 314,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 314,
+				["hdonespell"] = {
+					["Самоисцеление"] = {
+						["min"] = 314,
+						["crits"] = 0,
+						["max"] = 314,
+						["healing"] = 314,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Грак'уке"] = {
+				["players"] = {
+				},
+				["hdone"] = 63,
+				["htakenspell"] = {
+					["Самоисцеление"] = {
+						["min"] = 30,
+						["crits"] = 0,
+						["max"] = 33,
+						["healing"] = 63,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 63,
+				["hdonespell"] = {
+					["Самоисцеление"] = {
+						["min"] = 30,
+						["crits"] = 0,
+						["max"] = 33,
+						["healing"] = 63,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Гачинадаче"] = {
+				["players"] = {
+				},
+				["hdone"] = 1339,
+				["htakenspell"] = {
+					["Сфера концентрированной анимы"] = {
+						["min"] = 1339,
+						["crits"] = 0,
+						["max"] = 1339,
+						["healing"] = 1339,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1339,
+				["hdonespell"] = {
+					["Сфера концентрированной анимы"] = {
+						["min"] = 1339,
+						["crits"] = 0,
+						["max"] = 1339,
+						["healing"] = 1339,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Журавль"] = {
+				["players"] = {
+				},
+				["hdone"] = 299,
+				["htakenspell"] = {
+					["Самоисцеление"] = {
+						["min"] = 65,
+						["crits"] = 0,
+						["max"] = 234,
+						["healing"] = 299,
+						["overhealing"] = 1347,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 299,
+				["hdonespell"] = {
+					["Самоисцеление"] = {
+						["min"] = 65,
+						["crits"] = 0,
+						["max"] = 234,
+						["healing"] = 299,
+						["overhealing"] = 1347,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Сэрджи"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Сфера концентрированной анимы"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1989,
+						["hits"] = 1,
+					},
+					["Могильное касание"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 525,
+						["hits"] = 1,
+					},
+					["Призрачная сингулярность"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 192,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Сфера концентрированной анимы"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1989,
+						["hits"] = 1,
+					},
+					["Могильное касание"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 525,
+						["hits"] = 1,
+					},
+					["Призрачная сингулярность"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 192,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Копытень"] = {
+				["players"] = {
+				},
+				["hdone"] = 4476,
+				["htakenspell"] = {
+					["Самоисцеление"] = {
+						["min"] = 1671,
+						["crits"] = 0,
+						["max"] = 2805,
+						["healing"] = 4476,
+						["overhealing"] = 2610,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 4476,
+				["hdonespell"] = {
+					["Самоисцеление"] = {
+						["min"] = 1671,
+						["crits"] = 0,
+						["max"] = 2805,
+						["healing"] = 4476,
+						["overhealing"] = 2610,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Мерцающая Пыль в роли Кил'джедена"] = {
+				["players"] = {
+					["Царева"] = {
+						["taken"] = 564,
+						["done"] = 4832,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 564,
+				["done"] = 4832,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["shielding"] = 128,
+		["healing"] = 128,
+		["auras"] = {
+		},
+		["overhealing"] = 0,
+		["mobtaken"] = 564,
+		["name"] = "Всего",
+		["starttime"] = 1628365868,
+		["damagetaken"] = 4832,
+		["mobhdone"] = 6491,
+		["last_action"] = 1628365868,
+		["mobdone"] = 4832,
+	},
+}
