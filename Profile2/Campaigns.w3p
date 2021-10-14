@@ -2,13 +2,13 @@
 Difficulty=2
 Human=-1152921504606842881
 NightElf=576460752303423488
-Orc=576460752303423488
+Orc=-9223372036854775805
 PlayerName=Alex_theEnd
-ShowScreen=2
+ShowScreen=3
 Tutorial=-3458764513820540925
 TutorialCleared=1
-Undead=-9223372036854775297
+Undead=-6917529027641080833
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=1828406786
+Magic=1535881652
 
