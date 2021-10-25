@@ -1,7 +1,7 @@
 [Campaign]
 Difficulty=2
 Human=-1152921504606842881
-NightElf=-9223372036854775553
+NightElf=-6917529027641081601
 Orc=-6917529027641079809
 PlayerName=Alex_theEnd
 ShowScreen=4
@@ -10,5 +10,5 @@ TutorialCleared=1
 Undead=-6917529027641080833
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=-1544897316
+Magic=-1736139756
 
