@@ -9,6 +9,17 @@ Tutorial=-3458764513820540925
 TutorialCleared=1
 Undead=-6917529027641080833
 
+[Campaign1]
+Difficulty=2
+Human=-9223372036854774785
+NightElf=-3458764513820538881
+Orc=-4611686018427387901
+PlayerName=Alex_theEnd
+ShowScreen=3
+TutorialCleared=0
+Undead=-6917529027641065473
+
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
 Magic=-1736139756
+Magic1=1037856776
 
